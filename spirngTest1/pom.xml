@@ -14,7 +14,7 @@
 		<org.slf4j-version>1.5.10</org.slf4j-version>
 	</properties>
 	<dependencies>
-		<!-- Spring test ok aaaa sddhhhhhhhhhdsddsfffffhhhffggggfffffdfhhhhhdfdffdffffffffffff-->
+		<!-- Spring testgdfdfsssssfdjjjjdddddfffffdcdddddfssffffdssdd-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
@@ -115,6 +115,11 @@
 			<artifactId>junit</artifactId>
 			<version>4.7</version>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aop</artifactId>
+			<version>3.1.0.RELEASE</version>
 		</dependency>
 	</dependencies>
     <build>
