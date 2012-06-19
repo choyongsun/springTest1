@@ -14,7 +14,7 @@
 		<org.slf4j-version>1.5.10</org.slf4j-version>
 	</properties>
 	<dependencies>
-		<!-- Spring test ok aaaa sdddsddsfdfdfdffdffffffffffff-->
+		<!-- Spring test ok aaaa sdddsddsffffffffffffdfdfdffdffffffffffff-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
