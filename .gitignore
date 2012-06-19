@@ -1,6 +1,6 @@
-springTest1/.classpath
-springTest1/.project
-springTest1/.settings/
-springTest1/.springBeans
-springTest1/target/
-springTest1/pom.xml
+.classpath
+.project
+.settings/
+.springBeans
+target/
+pom.xml
