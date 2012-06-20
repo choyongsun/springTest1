@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- dfdfdfdfddfdfdffddf
- 
- 신버젼 입니다
+
 </body>
 </html>
